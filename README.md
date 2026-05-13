@@ -1,3 +1,3 @@
 # First-repo
 This is my first Git Repo.
-Author - Amit Jaiswal 
+Author - Amit Jaiswal (IITDELHI)
